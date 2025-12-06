@@ -1,0 +1,5 @@
+{
+  "name": "FM Dev Workflow Manager",
+  "description": "A comprehensive workflow management tool for building a Football Manager game, featuring organized prompt libraries and Gemini AI integration for execution.",
+  "requestFramePermissions": []
+}
